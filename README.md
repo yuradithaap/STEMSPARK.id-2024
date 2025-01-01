@@ -20,3 +20,9 @@ Before we begin, let's first recognise some of the business questions we want to
 
 <h2>Recommendation</h2>
 
+1. Given the increasing number of students influenced by mentoring for competitions, it is advisable to regularly hold or participate in competitions. This can attract more students to join and it is better to work with the school to socialize the competition to attract many participants.
+2. The distribution of classes between needs to be rearranged. Rifky and Yura can be given more responsibility in handling extracurricular classes to ease Andrian's burden. Sandra and Lia can be given more responsibility in handling online classes so that the online class schedule is more balanced.
+3. To reduce Andrian's workload, it is recommended to add teachers in each extracurricular class. This can help Andrian maintain performance while ensuring the quality of learning remains optimal.
+4. Offline classes have a very low proportion of students (1.16%). It is recommended to increase offline class promotions, such as through free trial classes, collaboration with schools, or attractive learning package offers.
+5. It is recommended to expand the reach to other schools in offering extracurricular programs, considering that extracurriculars have the highest proportion of participants compared to other types of classes.
+
