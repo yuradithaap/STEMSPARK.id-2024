@@ -18,6 +18,12 @@ Before we begin, let's first recognise some of the business questions we want to
 4. Extracurricular classes get the highest proportion of 63.82% compared to other classes. Meanwhile, offline classes get the lowest proportion of 1.16%.
 5. The top order consisted of SD Labschool UPI in first place, Python Class in second, SMP Labschool UPI in third, SDI Abu Seno in fourth, and SMP Hikmah Teladan in fifth. The top five is dominated by extracurricular classes as they have more students than other classes.
 
+<h2>Live Dashboard</h2>
+
+![image alt](https://github.com/yuradithaap/STEMSPARK.id-2024/blob/main/dashboard%20stemspark.png?raw=true)
+
+Tableau Link: https://public.tableau.com/app/profile/yuradithaap/viz/stemspark2024/Dashboard1
+
 <h2>Recommendation</h2>
 
 1. Given the increasing number of students influenced by mentoring for competitions, it is advisable to regularly hold or participate in competitions. This can attract more students to join and it is better to work with the school to socialize the competition to attract many participants.
